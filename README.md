@@ -1,4 +1,3 @@
-# datascience_projects
+# Data Scientist Hub
 
-### Program: 
-### Final Project submission
+### Here, you will find everything related to Data Science !
